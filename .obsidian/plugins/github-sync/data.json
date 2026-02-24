@@ -1,5 +1,5 @@
 {
-  "remoteURL": "https://github.com/Cobbeled/School.git",
+  "remoteURL": "git@github.com:Cobbeled/School.git",
   "gitLocation": "",
   "syncinterval": 0,
   "isSyncOnLoad": true,
