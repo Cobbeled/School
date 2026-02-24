@@ -1,0 +1,1 @@
+Eine Trias ist ein Sprachliches Mittel wobei Drei (meist Zusammenhängende) Sachen Genannt werden

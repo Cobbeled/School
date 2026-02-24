@@ -1,0 +1,1 @@
+Eine Metapher ist ein Sprachliches mittel welches dann besteht, wenn man ein [[Vergleich]] zieht ohne das Wort "Wie" zu Nutzen

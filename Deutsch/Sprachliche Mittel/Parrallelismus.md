@@ -1,0 +1,1 @@
+[[Wiederholung]] Gleicher Syntaktischer Fügungen.

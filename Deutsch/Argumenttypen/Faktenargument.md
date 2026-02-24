@@ -1,0 +1,1 @@
+Ein Faktenargument besteht dann wenn Zahlen/Statistiken/Untersuchungen genannt werden um ein Argument zu machen

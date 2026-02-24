@@ -1,0 +1,2 @@
+Ein Analogisierendes Argument besteht immer dann wenn man Rückschlüsse auf erwiesenen Tatsachen zieht.
+Beispiel: Schon damals wurden Politiker aus Politischen gründen umgebracht (erwiesene Tatsache), also ist es nicht undenkbar das den Politikern von Heute genau das Gleiche Schicksaal entgegenkommt. (Analogisierendes Argument)

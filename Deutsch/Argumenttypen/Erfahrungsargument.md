@@ -1,0 +1,2 @@
+Ein Erfahrungsargument besteht dann wenn man sich auf Erfahrungen Beruht.
+Oft wenn Sachen einfach genannt werden und diese den anderen Argumenten nicht entspricht, befasst man sich mit solch ein Argument.
