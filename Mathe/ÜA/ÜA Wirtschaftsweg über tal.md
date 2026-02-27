@@ -2,9 +2,11 @@
 left=-60; right=60;
 top=20; bottom=-30;
 ---
-y=-1/32x^2
-y=1/10x
+f(x)=-1/32x^2
+g(x)=1/10x
+g(20)
 ```
+Aufgabe a:
 $$
 g(x)=\frac{1}{10}x
 $$
@@ -20,4 +22,21 @@ $$
 $$
 $$
 \implies f(x)=-32x^{2}
+$$
+___
+Aufgabe b:
+$$
+f'(x)=0,1
+$$
+$$
+f(x)=-\frac{1}{32}x^{2} \to f'(x)=-\frac{1}{16}x
+$$
+$$
+\implies 0,1 = -\frac{1}{16}x 
+$$
+$$
+\to x=-\frac{8}{5}
+$$
+$$
+S_{g}\left( -\frac{8}{5}|-\frac{2}{25} \right)
 $$
