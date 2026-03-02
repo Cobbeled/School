@@ -3,8 +3,8 @@ left=-60; right=60;
 top=20; bottom=-30;
 ---
 f(x)=-1/32x^2
-g(x)=1/10x
-g(20)
+g(x)=1/10x+0.16
+(20,0)
 ```
 Aufgabe a:
 $$
@@ -21,7 +21,7 @@ $$
 -12,5=a*20^{2} \to -12,5=a*400 \to -\frac{1}{32}=a 
 $$
 $$
-\implies f(x)=-32x^{2}
+\implies f(x)=-\frac{1}{32}  x^{2}
 $$
 ___
 Aufgabe b:
@@ -40,3 +40,4 @@ $$
 $$
 S_{g}\left( -\frac{8}{5}|-\frac{2}{25} \right)
 $$
+____
