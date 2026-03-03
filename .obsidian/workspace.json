@@ -41,7 +41,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Ing-Technik/Elektro/E-Kabel auswählen.canvas",
                 "viewState": {
                   "x": 18.400122070312662,
                   "y": 619.9999999999998,
@@ -49,7 +49,7 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "E-Kabel auswählen"
             }
           },
           {
@@ -58,16 +58,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Ing-Technik/Metall/KA Themen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "KA Themen"
+            }
+          },
+          {
+            "id": "1a7d3b8daaf1948b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formeln Metall.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Formeln Metall"
+            }
+          },
+          {
+            "id": "7083fc03dd67fab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ing-Technik/Metall/24 Drehmoment und Seine Arbeiten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "24 Drehmoment und Seine Arbeiten"
+            }
+          },
+          {
+            "id": "14baaa9df86dce79",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Bilder/Ing Kl.12 1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Ing Kl.12 1"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -263,24 +303,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b86d4bed8afb9eb",
+  "active": "14baaa9df86dce79",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Untitled 1.md",
+    "Der Mauerfall.md",
+    "Bilder/Ing Kl.12 1.pdf",
+    "Ing-Technik/Metall/24 Drehmoment und Seine Arbeiten.md",
+    "Formeln Metall.md",
+    "Untitled.md",
+    "Bilder/Ing Kl.12 (1).pdf",
+    "Bilder/Ing Kl.12.pdf",
+    "Ing-Technik/Metall/KA Themen.md",
+    "Ing-Technik/Bau/Template Schichttemperatur.md",
+    "Ing-Technik/Bau/Schichttemperaturen.md",
+    "Ing-Technik/Bau/Schichttemperatur Graph.md",
+    "Ing-Technik/Bau/Übungen/Übung 1.md",
+    "Ing-Technik/Elektro/E-Kabel auswählen.canvas",
+    "Englisch/Unterichtsaufgaben/Mediation 2 Lidar and Radar.md",
     "Englisch/Unterichtsaufgaben/Mediation.md",
     "Mathe/ÜA/ÜA S275 Aufg. 2 a.md",
     "Mathe/ÜA/ÜA Eigen.md",
     "Mathe/ÜA/ÜA Wirtschaftsweg über tal.md",
     "Mathe/ÜA/ÜA Auffahrt.md",
     "Mathe/n funktion.md",
-    "Bilder/Ing Kl.12 (1).pdf",
-    "Ing-Technik/Metall/KA Themen.md",
     "Mathe/Quadratische Funktion.md",
-    "Untitled.md",
-    "Ing-Technik/Metall/24 Drehmoment und Seine Arbeiten.md",
     "Bilder",
     "Ing-Technik/Metall/32 Zugbeanspruchung.md",
-    "Bilder/Ing Kl.12.pdf",
     "Mathe/ÜA",
     "Englisch/Unterichtsaufgaben",
     "Deutsch/Argumenttypen/Normatives Argument.md",
@@ -291,16 +338,9 @@
     "Deutsch/Hypotaxen.md",
     "Deutsch/Sachtextanalyse/Aufbau(Sachtextanalyse).md",
     "Deutsch/Sprachliche Mittel/Wiederholung.md",
-    "Deutsch/Sprachliche Mittel/Parrallelismus.md",
-    "Ing-Technik/Bau/Template Schichttemperatur.md",
     "Untitled 1.base",
     "Untitled.base",
-    "Deutsch/Argumenttypen/Analogisierendes Argument.md",
-    "Deutsch/Sprachliche Mittel/Anglizismus.md",
-    "Deutsch/Sprachliche Mittel/Vergleich.md",
-    "Deutsch/Sprachliche Mittel/Trias.md",
     "Ing-Technik/Bau/Übungen",
-    "Ing-Technik/Elektro",
     "Deutsch/Sprachliche Mittel/Untitled.canvas"
   ]
 }
