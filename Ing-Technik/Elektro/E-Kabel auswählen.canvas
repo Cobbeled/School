@@ -6,8 +6,15 @@
 		{"id":"2fabfdbdb70804b5","type":"text","text":"Art Der Leitungsverlegung / Verlegeart bestimmen","x":-214,"y":235,"width":413,"height":60},
 		{"id":"034368fdbe0e4962","type":"text","text":"Weicht die Umgebungstemperatur von 30°C ab?","x":-207,"y":340,"width":400,"height":60,"color":"4"},
 		{"id":"0d8b47d021b3b283","type":"text","text":"Liegt eine häufung von Leitungen vor?","x":-207,"y":560,"width":400,"height":60,"color":"4"},
-		{"id":"c354ff0cc2d0d46f","type":"text","text":"","x":-132,"y":660,"width":250,"height":60},
-		{"id":"0c83f1e1ceccc9f1","type":"text","text":"$$\n\\text{Umrechnungsfaktor } f_{1} \\text{ für abwecheiende Umgebungstemperatur ermitteln}\n$$","x":-265,"y":440,"width":517,"height":80}
+		{"id":"0c83f1e1ceccc9f1","type":"text","text":"$$\n\\text{Umrechnungsfaktor } f_{1} \\text{ für abwecheiende Umgebungstemperatur ermitteln}\n$$","x":-265,"y":440,"width":517,"height":80},
+		{"id":"2d52c2441ab6c7fa","x":-208,"y":800,"width":404,"height":83,"type":"text","text":"$$\n\\text{Bemessungswert }I_{r} \\text{ der Strombelastbarketi berechnen:}\n$$"},
+		{"id":"40dc202c5a4dbb96","x":-96,"y":883,"width":180,"height":77,"type":"text","text":"$$I_{r}= \\frac{I_{z}}{f_{1}*f_{2}*f_{3}*f_{4}}$$"},
+		{"id":"cc3c9e867db91e66","x":-208,"y":1032,"width":404,"height":88,"type":"text","text":"Den Erforderlichen Leiterquerschnitt A unter  berrücksichtigung der Verlegeart und nach anzahl der Belasteten Adern auswählen"},
+		{"id":"fa741c0000409613","x":-176,"y":1180,"width":340,"height":74,"type":"text","text":"$$\n\\text{Spannungsfall }\\Delta U \\text{ der Leitung berrechnen}\n$$"},
+		{"id":"48181e0861cddcce","x":-159,"y":1300,"width":306,"height":66,"color":"4","type":"text","text":"Wird der Zulässige Spannungsfall überschritten ?"},
+		{"id":"c354ff0cc2d0d46f","type":"text","text":"$$\\text{Umrechnungsfaktor }f_{2} \\text{ für häufungen von Leitungen bestimmen}$$","x":-249,"y":680,"width":487,"height":80},
+		{"id":"47e976c3cc185496","x":164,"y":1460,"width":306,"height":60,"color":"#000000","type":"text","text":"Leiterquerschnitt bestimmt"},
+		{"id":"14e85f1bf30315ec","x":-467,"y":1460,"width":291,"height":60,"type":"text","text":"Nächstgrößeren Leiterquerschnitt A auswählen"}
 	],
 	"edges":[
 		{"id":"ee144b75d9e56daa","fromNode":"85d6d87965116360","fromSide":"bottom","toNode":"2ce4eed02d8a47b2","toSide":"top"},
@@ -17,6 +24,14 @@
 		{"id":"21e65570de4b140c","fromNode":"034368fdbe0e4962","fromSide":"bottom","toNode":"0c83f1e1ceccc9f1","toSide":"top","label":"Ja"},
 		{"id":"970e1b06e8b049f0","fromNode":"034368fdbe0e4962","fromSide":"right","toNode":"0d8b47d021b3b283","toSide":"right","label":"Nein"},
 		{"id":"26c0bfe9bef7b365","fromNode":"0c83f1e1ceccc9f1","fromSide":"bottom","toNode":"0d8b47d021b3b283","toSide":"top"},
-		{"id":"83062f296f740d9e","fromNode":"0d8b47d021b3b283","fromSide":"bottom","toNode":"c354ff0cc2d0d46f","toSide":"top"}
+		{"id":"83062f296f740d9e","fromNode":"0d8b47d021b3b283","fromSide":"bottom","toNode":"c354ff0cc2d0d46f","toSide":"top","label":"Ja"},
+		{"id":"fe70af63afa228a8","fromNode":"c354ff0cc2d0d46f","fromSide":"bottom","toNode":"2d52c2441ab6c7fa","toSide":"top"},
+		{"id":"d1eea8f86e49c26e","fromNode":"40dc202c5a4dbb96","fromSide":"bottom","toNode":"cc3c9e867db91e66","toSide":"top"},
+		{"id":"34a00efdabfd1e24","fromNode":"cc3c9e867db91e66","fromSide":"bottom","toNode":"fa741c0000409613","toSide":"top"},
+		{"id":"e99f08ec6cf35951","fromNode":"fa741c0000409613","fromSide":"bottom","toNode":"48181e0861cddcce","toSide":"top"},
+		{"id":"ac1fe5340c8f5e8b","fromNode":"48181e0861cddcce","fromSide":"bottom","toNode":"14e85f1bf30315ec","toSide":"right","label":"Ja"},
+		{"id":"624cf7b83102ba0b","fromNode":"48181e0861cddcce","fromSide":"bottom","toNode":"47e976c3cc185496","toSide":"left","label":"Nein"},
+		{"id":"86f1ed38d08c69b1","fromNode":"14e85f1bf30315ec","fromSide":"top","toNode":"fa741c0000409613","toSide":"left"},
+		{"id":"3d00b2b18d20ebfe","fromNode":"0d8b47d021b3b283","fromSide":"right","toNode":"2d52c2441ab6c7fa","toSide":"right","label":"Nein"}
 	]
 }
