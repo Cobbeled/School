@@ -8,5 +8,7 @@
   "obsidian-chartsview-plugin",
   "obisidian-note-linker",
   "obsidian-git",
-  "github-sync"
+  "github-sync",
+  "cmdr",
+  "excel"
 ]
