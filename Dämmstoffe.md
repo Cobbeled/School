@@ -6,4 +6,5 @@ Organische Dämmstoffe haben die Vorteile:
 - Verbesserte Wärmespeicherung
 - Vorteilhaftes Feuchtigkeitsverhalten
 Bringen aber auch Nachteile Mit sich:
-- 
+- Anfällig für Schimmel und schadlinge
+- Erhöte gefahr im thema Brandschutz
