@@ -38,4 +38,4 @@ Zusammenfassend:
 Ökologisch bedeutet das Klimaneutral gebaut wird. Nachhaltig bedeutet das es Ökologisch gebaut wird, aber auch Andere Aspekte wie die Ökonomik mit einbezogen werden.
 
 Aufgabe 5:
-Die Eigenschaften des Ökologischen Bauens befasst sich hauptäschlich mit der Umweltfreundlichkeit und der Energieeffizienz 
+Die Eigenschaften des Ökologischen Bauens befasst sich Hauptsächlich mit der Umweltfreundlichkeit und der Energieeffizienz des Baus.
