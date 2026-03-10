@@ -24,4 +24,4 @@ Quellen:
 	https://www.co2online.de/modernisieren-und-bauen/daemmung/konventionelle-daemmstoffe/
 
 Biogene Dämmstoffe:
-Ein Sogenannter Biogener Dämmstoff ist ein Material/Dämmstoff welches 
+Ein Sogenannter Biogener Dämmstoff ist ein Material/Dämmstoff welches aus Nachwachsenden Stoffen besteht. Dies  bedeutet so ziemlich alles  was von Pflanzen Kommt wobei Holz besonders beleibt ist
