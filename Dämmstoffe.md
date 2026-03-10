@@ -17,3 +17,8 @@ Diese haben die Vorteile:
 Bringen aber auch Nachteile Mit sich:
 - Schlechte Wärme Speicherung
 - Können durch Feuchtigkeit ihre Dämmungsfähigkeit verlieren
+- Oft Schlecht für Den Klimawande (Co2 Ausstoß ect)
+
+Quellen:
+	https://www.baunetzwissen.de/daemmstoffe/fachwissen/daemmstoffe/ausgangsmaterialien-fuer-daemmstoffe-1466079
+	https://www.co2online.de/modernisieren-und-bauen/daemmung/konventionelle-daemmstoffe/
