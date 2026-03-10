@@ -14,3 +14,6 @@ Diese haben die Vorteile:
 - Resistent gegen Schimmel und Schädlinge
 - Gute Schalldämmung
 - Guter Brandschutz
+Bringen aber auch Nachteile Mit sich:
+- Schlechte Wärme Speicherung
+- Können durch Feuchtigkeit ihre Dämmungsfähigkeit verlieren
