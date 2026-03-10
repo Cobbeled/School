@@ -352,13 +352,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Ing-Technik/Bau/Dämmung/Dämmstoffe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Dämmstoffe"
             }
           },
           {
@@ -392,11 +392,12 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -414,7 +415,7 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "fa8a8d84cec1ce47",
+  "active": "ed520c514dbc66bb",
   "lastOpenFiles": [
     "Deutsch/Erörterung.md",
     "Ing-Technik/Bau/Dämmung/Dämmstoffe.md",
