@@ -41,4 +41,7 @@ Aufgabe 5:
 Die Eigenschaften des Ökologischen Bauens befasst sich Hauptsächlich mit der Umweltfreundlichkeit und der Energieeffizienz des Baus.
 
 Aufgabe 6:
-Geringer Energie Verbrauch: Niedrige Energie Nutzung bei der Herstellung der 
+Geringer Energieverbrauch: Niedrige Energie Nutzung bei der Herstellung der Baustoffe
+Wiederverweundung: Gute Wiederverwendung anhand Nutzung der Baustoffen in anderen bereichen
+Recycling: Oft gut Recyclebar dank erhaltbarkeit.
+Entsorgung: Einfache Entsorgung inform von 
