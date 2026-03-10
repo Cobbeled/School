@@ -24,3 +24,4 @@ Quellen:
 	https://www.co2online.de/modernisieren-und-bauen/daemmung/konventionelle-daemmstoffe/
 
 Biogene Dämmstoffe:
+Ein Sogenannter Biogener Dämmstoff ist ein Material/Dämmstoff welches 
