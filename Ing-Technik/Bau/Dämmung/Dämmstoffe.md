@@ -35,4 +35,4 @@ Diese Wären einmal der Ökoonomische aspekt, was bedeutet das der Bau Kosteneff
 Technische Qualität, was soviel bedeutet wie das Die Struktur Haltbar und sicher Gebaut wird. Aber auch wird beachtet das Soziokulturelle Aspekte miteinbezogen werden.
 
 Zusammenfassend:
-Ökologisch bedeutet das Klimaneutral gebaut wird. Nachhaltig bedeutet das es Ökologisch gebaut wird, ab
+Ökologisch bedeutet das Klimaneutral gebaut wird. Nachhaltig bedeutet das es Ökologisch gebaut wird, aber auch Andere Aspekte wie die Ökonomik mit einbezogen werden.
