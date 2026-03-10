@@ -1,3 +1,4 @@
+Aufgabe 2
 Wenn man über Dämmstoffe redet kann man zwischen 2 Dämmstoffen Unterscheiden.
 Die Organischen und die Anorganischen Dämmstoffe
 
@@ -23,5 +24,6 @@ Quellen:
 	https://www.baunetzwissen.de/daemmstoffe/fachwissen/daemmstoffe/ausgangsmaterialien-fuer-daemmstoffe-1466079
 	https://www.co2online.de/modernisieren-und-bauen/daemmung/konventionelle-daemmstoffe/
 
+Aufg.
 Biogene Dämmstoffe:
-Ein Sogenannter Biogener Dämmstoff ist ein Material/Dämmstoff welches aus Nachwachsenden Stoffen besteht. Dies bedeutet so ziemlich alles  was von Pflanzen Kommt wobei Holz besonders beliebt ist
+Ein Sogenannter Biogener Dämmstoff ist ein Material/Dämmstoff welches aus Nachwachsenden Stoffen besteht. Dies bedeutet so ziemlich alles  was von Pflanzen Kommt wobei Holz besonders beliebt ist.
