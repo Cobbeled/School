@@ -9,4 +9,4 @@ Bringen aber auch Nachteile Mit sich:
 - Anfällig für Schimmel und Schadlinge
 - Erhöte Gefahr im Thema Brandschutz
 
-Anorganische Dämmstoffe
+Anorganische Dämmstoffe sind Stoffe die aus Nicht Organischen Material wie Minneralien ect Gewonnen werden.
