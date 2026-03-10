@@ -24,6 +24,10 @@ Quellen:
 	https://www.baunetzwissen.de/daemmstoffe/fachwissen/daemmstoffe/ausgangsmaterialien-fuer-daemmstoffe-1466079
 	https://www.co2online.de/modernisieren-und-bauen/daemmung/konventionelle-daemmstoffe/
 
-Aufg.
+Aufgabe 3
 Biogene Dämmstoffe:
 Ein Sogenannter Biogener Dämmstoff ist ein Material/Dämmstoff welches aus Nachwachsenden Stoffen besteht. Dies bedeutet so ziemlich alles  was von Pflanzen Kommt wobei Holz besonders beliebt ist.
+
+Aufgabe 4:
+Bei Ökologischem Bauen wird Hauptsächlich darauf fokusiert das man Mit Klimafreundlichen und Schadstofffreien Baustoffen Gearbeitet wird.
+Das Nachhaltige Bauen befasst sich auch damit aber zieht noch anere Punkte in den Focus
