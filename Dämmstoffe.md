@@ -9,7 +9,7 @@ Bringen aber auch Nachteile Mit sich:
 - Anfällig für Schimmel und Schadlinge
 - Erhöte Gefahr im Thema Brandschutz
 
-Anorganische Dämmstoffe sind Stoffe die aus Nicht Organischen Material wie Minneralien ect Gewonnen werden.
+Anorganische Dämmstoffe sind Stoffe die aus Nicht Organischen Material wie Mineralien oder aus Synthetischen Stoffen Gewonnen werden.
 Diese haben die Vorteile:
 - Resistent gegen Schimmel und Schädlinge
 - Gute Schalldämmung
