@@ -22,3 +22,5 @@ Bringen aber auch Nachteile Mit sich:
 Quellen:
 	https://www.baunetzwissen.de/daemmstoffe/fachwissen/daemmstoffe/ausgangsmaterialien-fuer-daemmstoffe-1466079
 	https://www.co2online.de/modernisieren-und-bauen/daemmung/konventionelle-daemmstoffe/
+
+Biogene Dämmstoffe:
