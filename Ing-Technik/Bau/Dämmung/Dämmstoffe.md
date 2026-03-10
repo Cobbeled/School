@@ -32,4 +32,7 @@ Aufgabe 4:
 Bei Ökologischem Bauen wird Hauptsächlich darauf fokusiert das man Mit Klimafreundlichen und Schadstofffreien Baustoffen Gearbeitet wird.
 Das Nachhaltige Bauen befasst sich auch damit aber zieht noch anere Punkte in den Focus.
 Diese Wären einmal der Ökoonomische aspekt, was bedeutet das der Bau Kosteneffizient sein Soll.
-Technische Qualität, was soviel bedeutet wie das Die Struktur Haltbar und sicher Gebaut wird. Aber auch wird beachtet das Soziokulturelle Aspekte miteinbezogen werden
+Technische Qualität, was soviel bedeutet wie das Die Struktur Haltbar und sicher Gebaut wird. Aber auch wird beachtet das Soziokulturelle Aspekte miteinbezogen werden.
+
+Zusammenfassend:
+Ökologisch bedeutet das Klimaneutral gebaut wird. Nachhaltig bedeutet das es Ökologisch gebaut wird, ab
