@@ -39,3 +39,5 @@ Zusammenfassend:
 
 Aufgabe 5:
 Die Eigenschaften des Ökologischen Bauens befasst sich Hauptsächlich mit der Umweltfreundlichkeit und der Energieeffizienz des Baus.
+
+Aufgabe 6:
