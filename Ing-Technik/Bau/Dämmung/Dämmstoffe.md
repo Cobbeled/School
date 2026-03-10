@@ -42,6 +42,6 @@ Die Eigenschaften des Ökologischen Bauens befasst sich Hauptsächlich mit der U
 
 Aufgabe 6:
 Geringer Energieverbrauch: Niedrige Energie Nutzung bei der Herstellung der Baustoffe
-Wiederverweundung: Gute Wiederverwendung anhand Nutzung der Baustoffen in anderen bereichen
-Recycling: Oft gut Recyclebar dank erhaltbarkeit.
+Wiederverwendung: Gute Wiederverwendung anhand Nutzung der Baustoffen in anderen Bereichen
+Recycling: Oft gut Recyclebar dank Erhaltbarkeit.
 Entsorgung: Einfache Entsorgung inform von Verbrennung
