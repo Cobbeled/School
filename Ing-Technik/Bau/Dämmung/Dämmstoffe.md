@@ -29,10 +29,10 @@ Biogene Dämmstoffe:
 Ein Sogenannter Biogener Dämmstoff ist ein Material/Dämmstoff welches aus Nachwachsenden Stoffen besteht. Dies bedeutet so ziemlich alles  was von Pflanzen Kommt wobei Holz besonders beliebt ist.
 
 Aufgabe 4:
-Bei Ökologischem Bauen wird Hauptsächlich darauf fokusiert das man Mit Klimafreundlichen und Schadstofffreien Baustoffen Gearbeitet wird.
-Das Nachhaltige Bauen befasst sich auch damit aber zieht noch anere Punkte in den Focus.
-Diese Wären einmal der Ökoonomische aspekt, was bedeutet das der Bau Kosteneffizient sein Soll.
-Technische Qualität, was soviel bedeutet wie das Die Struktur Haltbar und sicher Gebaut wird. Aber auch wird beachtet das Soziokulturelle Aspekte miteinbezogen werden.
+Bei Ökologischem Bauen wird Hauptsächlich darauf Fokussiert das man Mit Klimafreundlichen und Schadstofffreien Baustoffen Gearbeitet wird.
+Das Nachhaltige Bauen befasst sich auch damit aber zieht noch andere Punkte in den Focus.
+Diese Wären einmal der Ökonomische Aspekt, was bedeutet das der Bau Kosteneffizient sein Soll.
+Technische Qualität, was soviel bedeutet wie das Die Struktur Haltbar und sicher Gebaut wird. Aber auch wird beachtet das Soziokulturelle Aspekte Mitteinbezogen werden.
 
 Zusammenfassend:
 Ökologisch bedeutet das Klimaneutral gebaut wird. Nachhaltig bedeutet das es Ökologisch gebaut wird, aber auch Andere Aspekte wie die Ökonomik mit einbezogen werden.
