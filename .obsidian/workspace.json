@@ -227,9 +227,21 @@
               "icon": "lucide-file",
               "title": "Der Mauerfall"
             }
+          },
+          {
+            "id": "078dbb2045f14561",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -427,7 +439,7 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "04adf81bd2bd6c49",
+  "active": "078dbb2045f14561",
   "lastOpenFiles": [
     "PK-WBL/Untitled.md",
     "PK-WBL/Der Mauerfall.md",
