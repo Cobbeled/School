@@ -529,10 +529,10 @@
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
       "github-sync:Sync with Remote": false,
+      "excel:Create Excel File": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obisidian-note-linker:Note Linker": false,
-      "obsidian-git:Open Git source control": false,
-      "excel:Create Excel File": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6baf752bdc0ace4b",
