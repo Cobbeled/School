@@ -335,9 +335,93 @@
               "icon": "lucide-file",
               "title": "Enquiry"
             }
+          },
+          {
+            "id": "82f8e093759dec2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sättigungsdampfdruck.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sättigungsdampfdruck"
+            }
+          },
+          {
+            "id": "705d06e8f049a4c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ing-Technik/Bau/Dämmung/Wasserdampfsättigungsdruck.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wasserdampfsättigungsdruck"
+            }
+          },
+          {
+            "id": "7f2b374c825fb288",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Text analyses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Text analyses"
+            }
+          },
+          {
+            "id": "8110f71c5183d0dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ing-Technik/Bau/Dämmung/Wasserdampfsättigungsdruck.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wasserdampfsättigungsdruck"
+            }
+          },
+          {
+            "id": "cf29d72cb9ac9718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ing-Technik/Bau/Dämmung/Wasserdampfdiffusionsfähigkeit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wasserdampfdiffusionsfähigkeit"
+            }
+          },
+          {
+            "id": "0bc44e179f5a9eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ÜA Klassenarbeit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ÜA Klassenarbeit"
+            }
           }
         ],
-        "currentTab": 23
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -535,17 +619,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6baf752bdc0ace4b",
+  "active": "0bc44e179f5a9eb1",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Ing-Technik/Bau/Dämmung/Wasserdampfdiffusionsfähigkeit.md",
+    "ÜA Klassenarbeit.md",
+    "Ing-Technik/Bau/Dämmung/Wasserdampfsättigungsdruck.md",
+    "Ing-Technik/Bau/Dämmung/Wasserdampf.md",
+    "Ing-Technik/Bau/Dämmung/Schichttemperaturen ÜA.md",
+    "Unbenannt.md",
+    "Text analyses.md",
+    "Ing-Technik/Bau/Dämmung/Dämmstoffe.md",
+    "Ing-Technik/Bau/Dämmung/Schichttemperatur.md",
+    "Ing-Technik/Bau/Dämmung/Schichttemperatur Graph.md",
+    "Ing-Technik/Bau/Herstellen von Baugruppen.md",
+    "Sättigungsdampfdruck.md",
     "Englisch/Unterichtsaufgaben/Enquiry.md",
+    "Untitled.canvas",
     "Englisch/Unterichtsaufgaben/Page 196.md",
     "Englisch/Unterichtsaufgaben/Mediation 2 Lidar and Radar.md",
     "Excel 2026-03-13 10.15.31.sheet.md",
     "Mathe/Mitternachtsformel.md",
     "Ing-Technik/Metall/Stückliste.md",
     "ÜA.md",
-    "Unbenannt.md",
     "Ing-Technik/Metall/Fügetechniken Stückliste.md",
     "Englisch/Unterichtsaufgaben/Mediation.md",
     "Mathe/ÜA/ÜA Integralrechnung.md",
@@ -559,18 +654,8 @@
     "Mathe/ÜA/ÜA Integrale.md",
     "Mathe/Integrale-berrechnen.md",
     "Mathe/Horner-Schema.md",
-    "Mathe/Integral.md",
-    "Mathe/n-funktion.md",
-    "des Horner-Schema.md",
-    "Mathe/ÜA/ÜA Wirtschaftsweg über tal.md",
-    "Mathe/ÜA/ÜA Eigen.md",
-    "Mathe/ÜA/ÜA Auffahrt.md",
-    "Untitled.md",
-    "Ing-Technik/Bau/Dämmung/Dämmstoffe.md",
     "VS Code",
     "Neuer Ordner",
-    "Deutsch/Erörterung.md",
-    "Deutsch/ÜA/Das Geheimnis eines gelungenen Aufbaus.md",
     "Deutsch/ÜA",
     "Ing-Technik/Elektro/E-Kabel auswählen.canvas",
     "Ing-Technik/Bau/Dämmung",
