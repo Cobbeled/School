@@ -4,438 +4,123 @@
     "type": "split",
     "children": [
       {
-        "id": "0367dd9ed73e1d05",
+        "id": "9c05288062eb1326",
         "type": "tabs",
         "children": [
           {
-            "id": "01867df7833ff3e4",
+            "id": "c5d42386e47a55c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/ÜA/ÜA Auffahrt.md",
+                "file": "Untersuchungskriterien/Vollständigkeit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ÜA Auffahrt"
+              "title": "Vollständigkeit"
             }
           },
           {
-            "id": "f16d816de47fbf42",
+            "id": "d52655d822b7be16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/ÜA/ÜA Eigen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ÜA Eigen"
-            }
-          },
-          {
-            "id": "c7cfbc8c8768638c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Ing-Technik/Elektro/E-Kabel auswählen.canvas",
-                "viewState": {
-                  "x": 18.400122070312662,
-                  "y": 619.9999999999998,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "E-Kabel auswählen"
-            }
-          },
-          {
-            "id": "1b86d4bed8afb9eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ing-Technik/Metall/KA Themen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "KA Themen"
-            }
-          },
-          {
-            "id": "1a7d3b8daaf1948b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ing-Technik/Formeln Metall.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Formeln Metall"
-            }
-          },
-          {
-            "id": "7083fc03dd67fab0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ing-Technik/Metall/24 Drehmoment und Seine Arbeiten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "24 Drehmoment und Seine Arbeiten"
-            }
-          },
-          {
-            "id": "14baaa9df86dce79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ing-Technik/Bau/Dämmung/Schichttemperatur.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Schichttemperatur"
-            }
-          },
-          {
-            "id": "bedf6a42a42624ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/ÜA/ÜA S275 Aufg. 2 a.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ÜA S275 Aufg. 2 a"
-            }
-          },
-          {
-            "id": "7d35dbad3b64f4d9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Bilder/Baugruppen.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Baugruppen"
-            }
-          },
-          {
-            "id": "579dc58e2dbf645f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/Quadratische Funktion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quadratische Funktion"
-            }
-          },
-          {
-            "id": "14b4661bb7862f3b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Bilder/Integrale - Berechnung von Flächeninhalten.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Integrale - Berechnung von Flächeninhalten"
-            }
-          },
-          {
-            "id": "1d259636e5cf55e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Argumenttypen/Erfahrungsargument.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Erfahrungsargument"
-            }
-          },
-          {
-            "id": "4633b2f0f84d1e85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/ÜA/Das Geheimnis eines gelungenen Aufbaus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Das Geheimnis eines gelungenen Aufbaus"
-            }
-          },
-          {
-            "id": "3b749c3a03a7a324",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Erörterung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Erörterung"
-            }
-          },
-          {
-            "id": "ed520c514dbc66bb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Bilder/Baugruppen.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Baugruppen"
-            }
-          },
-          {
-            "id": "04adf81bd2bd6c49",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Bilder/Baugruppen.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Baugruppen"
-            }
-          },
-          {
-            "id": "7e116510b0bda6d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fügetechniken Stückliste.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fügetechniken Stückliste"
-            }
-          },
-          {
-            "id": "f5c87ccb042b4293",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Bilder/Ing Kl.12 2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Ing Kl.12 2"
-            }
-          },
-          {
-            "id": "25cc1b4ff1869908",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/Horner-Schema.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Horner-Schema"
-            }
-          },
-          {
-            "id": "deb4f810965dd9a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/Mitternachtsformel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mitternachtsformel"
-            }
-          },
-          {
-            "id": "b1e63e807379f1d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/Mitternachtsformel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mitternachtsformel"
-            }
-          },
-          {
-            "id": "45a8ab4fc5ea2395",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/Integral.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Integral"
-            }
-          },
-          {
-            "id": "91f64e05d89217df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Englisch/Unterichtsaufgaben/Page 196.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Page 196"
-            }
-          },
-          {
-            "id": "6baf752bdc0ace4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Englisch/Unterichtsaufgaben/Enquiry.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enquiry"
-            }
-          },
-          {
-            "id": "82f8e093759dec2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sättigungsdampfdruck.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sättigungsdampfdruck"
-            }
-          },
-          {
-            "id": "705d06e8f049a4c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ing-Technik/Bau/Dämmung/Wasserdampfsättigungsdruck.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wasserdampfsättigungsdruck"
-            }
-          },
-          {
-            "id": "7f2b374c825fb288",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Text analyses.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Text analyses"
-            }
-          },
-          {
-            "id": "8110f71c5183d0dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ing-Technik/Bau/Dämmung/Wasserdampfsättigungsdruck.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wasserdampfsättigungsdruck"
-            }
-          },
-          {
-            "id": "cf29d72cb9ac9718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ing-Technik/Bau/Dämmung/Wasserdampfdiffusionsfähigkeit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wasserdampfdiffusionsfähigkeit"
-            }
-          },
-          {
-            "id": "0bc44e179f5a9eb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/ÜA/ÜA Klassenarbeit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ÜA Klassenarbeit"
-            }
-          },
-          {
-            "id": "c301b63cb1f6cc3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ÜA Neue Straße.md",
+                "file": "Mathe/ÜA/ÜA Neue Straße.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "ÜA Neue Straße"
             }
+          },
+          {
+            "id": "8fda8dfb14eed5f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unbenannt 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unbenannt 2"
+            }
+          },
+          {
+            "id": "fdea4ec2703e93f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ing-Technik/Bau/Dämmung/ÜA Tabelle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ÜA Tabelle"
+            }
+          },
+          {
+            "id": "68c70892ef85bafe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arbeit Musterlösung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arbeit Musterlösung"
+            }
+          },
+          {
+            "id": "a472596c6a26ce5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ing-Technik/Metall/ÜA Längenbrechung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ÜA Längenbrechung"
+            }
+          },
+          {
+            "id": "fa78d44f460ef4b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ing-Technik/Metall/ÜA Längenbrechung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ÜA Längenbrechung"
+            }
+          },
+          {
+            "id": "eebdcb22481f7b1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code Ampel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Code Ampel"
+            }
           }
         ],
-        "currentTab": 30
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -633,46 +318,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c301b63cb1f6cc3f",
+  "active": "eebdcb22481f7b1d",
   "lastOpenFiles": [
-    "Unbenannt.md",
+    "Ing-Technik/Metall/ÜA Längenbrechung.md",
+    "Code Ampel.md",
+    "Untitled.canvas",
     "Untitled.md",
-    "Mathe/ÜA/S306.md",
-    "Mathe/ÜA/ÜA.md",
-    "Mathe/ÜA/ÜA Auffahrt.md",
-    "Mathe/ÜA/ÜA Eigen.md",
-    "Mathe/ÜA/ÜA Integrale.md",
-    "Mathe/ÜA/ÜA Integralrechnung.md",
-    "Mathe/ÜA/ÜA Klassenarbeit.md",
-    "Mathe/ÜA/ÜA S275 Aufg. 2 a.md",
-    "Mathe/ÜA/ÜA Wirtschaftsweg über tal.md",
-    "Mathe/Horner-Schema.md",
-    "Mathe/Integrale-berrechnen.md",
-    "Mathe/Mitternachtsformel.md",
-    "Mathe/Quadratische Funktion.md",
-    "Mathe/n-funktion.md",
-    "Mathe/Integral.md",
-    "ÜA Neue Straße.md",
-    "Ing-Technik/Bau/Dämmung/Wasserdampfdiffusionsfähigkeit.md",
-    "Ing-Technik/Bau/Dämmung/Wasserdampfsättigungsdruck.md",
-    "Ing-Technik/Bau/Dämmung/Wasserdampf.md",
-    "Ing-Technik/Bau/Dämmung/Schichttemperaturen ÜA.md",
+    "Unbenannt 1.md",
+    "Unbenannt 2.md",
     "Text analyses.md",
-    "Ing-Technik/Bau/Dämmung/Dämmstoffe.md",
+    "Stellungnahme KI.md",
+    "Sättigungsdampfdruck.md",
+    "Berücksichtigung-von-Gegenargumenten.md",
+    "Unbenannt.md",
+    "ÜA Mediation.md",
+    "Arbeit Musterlösung.md",
+    "Ing-Technik/Bau/Dämmung/ÜA Tabelle.md",
+    "Ing-Technik/Bau/Dämmung/Schichttemperaturen ÜA.md",
     "Ing-Technik/Bau/Dämmung/Schichttemperatur.md",
     "Ing-Technik/Bau/Dämmung/Schichttemperatur Graph.md",
-    "Untitled.canvas",
+    "Ing-Technik/Bau/Dämmung/Dämmstoffe.md",
+    "Ing-Technik/Bau/Dämmung/Wasserdampfdiffusionsfähigkeit.md",
+    "Ing-Technik/Bau/Dämmung/Wasserdampf.md",
+    "Mathe/ÜA/ÜA Neue Straße.md",
+    "Untersuchungskriterien/Vollständigkeit.md",
+    "Untersuchungskriterien/Relevanz.md",
+    "Untersuchungskriterien/Präzision.md",
+    "Untersuchungskriterien/Kohärenz.md",
+    "Untersuchungskriterien/Evidenz.md",
+    "Untersuchungskriterien/Emotionalität.md",
+    "Bilder/Ing Kl.12 2.pdf",
     "Bilder/Baugruppen.pdf",
     "Bilder/Integrale - Berechnung von Flächeninhalten.pdf",
+    "Ing-Technik/Elektro/E-Kabel auswählen.canvas",
+    "Untersuchungskriterien",
     "Bilder/Ing Kl.12 1.pdf",
-    "Bilder/Ing Kl.12 2.pdf",
     "Bilder/Ing Kl.12.pdf",
     "Bilder/Ing Kl.12 (1).pdf",
     "VS Code",
     "Neuer Ordner",
     "Deutsch/ÜA",
-    "Ing-Technik/Elektro/E-Kabel auswählen.canvas",
-    "Ing-Technik/Bau/Dämmung",
     "Deutsch/Sprachliche Mittel/Untitled.canvas"
   ]
 }

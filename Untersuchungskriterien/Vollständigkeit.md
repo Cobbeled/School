@@ -1,0 +1,1 @@
+Decken die Argumente alle Relevanten Aspekte?

@@ -48,3 +48,12 @@ $f''(x)=x-\frac{2}3 \to x=\frac{2}{3}$
 Der Wendepunkt liegt an $x=\frac{2}{3}$
 
 ----
+
+$f(x)=-\frac{1}{6}x^{3}-\frac{1}{3}x^{2}+\frac{1}{6}x+\frac{11}{6}$
+$g(x)=-\frac{3}{4}x^{2}-\frac{1}{2}x+\frac{5}{4}$
+$$
+\int_{-2}^{2}(-\frac{1}{6}x^{3}-\frac{1}{3}x^{2}+\frac{1}{6}x+\frac{11}{6}+0.5)dx
+$$
+$$
+\int_{-1}^{1}(-\frac{3}{4}x^{2}-\frac{1}{2}x+\frac{5}{4}+0.5)dx
+$$
