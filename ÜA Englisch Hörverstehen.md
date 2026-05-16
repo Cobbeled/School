@@ -13,6 +13,7 @@ Its more difficult than just bme are chosen less.
 3 By showing how to propperly get through the application procces, highlite role models for this and helping companys work out their biases all lead to a betterment in these application procceses for bme
 
 ---
+Listening
 1 The problem starts at school where women are less likely to choose tech related subjects
 those who chose tech subjects are more likely to struggle with these subjects, and those that take a job in the tech industry are more likely to drop out in a year than men.
 
@@ -23,6 +24,7 @@ The Tech Talent Charter is a initiative by the government to help design applica
 The changes necessary by authorities mainly revolve around the change of attitude and culture involving work climate and application processes.
 
 ---
+Email
 Subject: Talking about your concerns
 Dear Melia
 
@@ -35,8 +37,38 @@ Sincerely
 Mathis Kramer
 
 ---
-
+Mediation
 Whats important for Gen Z in a job
 When choosing a job they look for how it affects the climate, how much free time they'll have, and how much they'll get paid.
 Important for Gen Z is their Carrier.
 When looking for job they usually don't identify themself's with their Workplace, what they care about is the meaning behind their work, or about gaining experties building skills or getting an higher degree.
+
+Mediation
+Trendreport: Whats important for Gen Z in a Job
+About 36 Percent of Workers between 18 to 29 value the impact their work has on the eco system
+For 86 Percent its the Material wealth that is important to them
+At the same time a good work life balance where carrier matters as much as free time is highly valued for around 53 Percent.
+This is shown to us by studies directly asking the german workers.
+Gen Z wants carrier opportunities.
+Another thing that came out of this studie said that, while they value success at their work, it doesnt seem to be of importance where they work.
+For most people, what matters most is the importance of their work, and the social recognition.
+Most People also strive to an expertise in their field instead of an leading position.
+Gen Z has high standards
+Gen Z sets high expectations for their workplace and their leaders.
+They want a sense of purpose behind their work, motivating them in their work and private life.
+Susanne Wißfeld an prominent Business Manager also states that businesses need to prepare that their employees tend to switch workplaces more often than usual.
+a job for life is something only a tiny amount of the generation still holds as feasable.
+
+---
+
+SkillUp encourages all people regardless of gender ethnicity or ability to apply.
+This is being seen as saying that people that dont fit the Norm are preffered than otters.
+Now People comment that this is unfair as not only diverse peolpe should be supported but that all should be equals.
+
+
+Should Diverse People be supported more than normal
+
+| Pro                                                                                                                                              | Contra                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| - Groups of Minoritys are often taken through<br>more hardships, therefore they didnt get equal<br>chances to prove themselfs                    | - When Focusing On Diversity People tend to<br>ignore actual competance over a diverse <br>background |
+| - By Supporting Groups of Minoritys, they can<br>Diversify their workforce and therefore Lead to<br> New and Innovative ideas in and around work | - Prefering People from groups of minoritys<br>lead to the same Problem just the other way<br>around. |

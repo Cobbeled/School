@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arbeit Musterlösung.md",
+                "file": "Mathe/Arbeit Musterlösung.md",
                 "mode": "source",
                 "source": false
               },
@@ -111,7 +111,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ÜA Carport.md",
+                "file": "Mathe/ÜA/ÜA Carport.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ÜA Carport"
+            }
+          },
+          {
+            "id": "ff19ea0a68a51279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ÜA Englisch Hörverstehen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ÜA Englisch Hörverstehen"
+            }
+          },
+          {
+            "id": "ccd39e5a3ac70390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathe/ÜA/ÜA Carport.md",
                 "mode": "source",
                 "source": false
               },
@@ -139,7 +167,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Ampel.md",
+                "file": "Ing-Technik/Code Ampel.md",
                 "mode": "source",
                 "source": false
               },
@@ -153,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ÜA Pavilion.md",
+                "file": "Mathe/ÜA/ÜA Pavilion.md",
                 "mode": "source",
                 "source": false
               },
@@ -176,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -355,8 +383,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -374,35 +401,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfc84c4d3d90a0e4",
+  "active": "ccd39e5a3ac70390",
   "lastOpenFiles": [
-    "ÜA Pavilion.md",
-    "ÜA Carport.md",
+    "Mathe/ÜA/ÜA Pavilion.md",
+    "Mathe/ÜA/ÜA Neue Straße.md",
+    "Unbenannt 2.md",
+    "Unbenannt 1.md",
+    "Unbenannt.md",
+    "Mathe/ÜA/ÜA Achterbahn.md",
+    "Mathe/ÜA/ÜA Integralrechnung.md",
+    "Mathe/ÜA/ÜA Integrale.md",
+    "ÜA Klassenarbeit Metall.md",
+    "ÜA Englisch Hörverstehen.md",
     "ÜA Argumentationsstruktur.md",
+    "Excel 2026-04-27 12.48.06.sheet.md",
+    "ÜA Mediation.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Ing-Technik/Metall/Fügetechniken Stückliste.md",
+    "Deutsch/Berücksichtigung-von-Gegenargumenten.md",
+    "Mathe/Arbeit Musterlösung.md",
+    "Mathe/ÜA/ÜA Carport.md",
     "Deutsch/Argumenttypen/Autoritäts Argument.md",
     "Deutsch/Argumenttypen/Analogisierendes Argument.md",
     "Ing-Technik/Metall/ÜA Längenbrechung.md",
-    "ÜA Englisch Hörverstehen.md",
-    "Code Ampel.md",
-    "Untitled.canvas",
-    "Untitled.md",
-    "Unbenannt 1.md",
-    "Unbenannt 2.md",
+    "Ing-Technik/Code Ampel.md",
     "Text analyses.md",
     "Stellungnahme KI.md",
-    "Sättigungsdampfdruck.md",
-    "Berücksichtigung-von-Gegenargumenten.md",
-    "Unbenannt.md",
-    "ÜA Mediation.md",
-    "Arbeit Musterlösung.md",
+    "Ing-Technik/Sättigungsdampfdruck.md",
     "Ing-Technik/Bau/Dämmung/ÜA Tabelle.md",
-    "Ing-Technik/Bau/Dämmung/Schichttemperaturen ÜA.md",
-    "Ing-Technik/Bau/Dämmung/Schichttemperatur.md",
-    "Ing-Technik/Bau/Dämmung/Schichttemperatur Graph.md",
-    "Ing-Technik/Bau/Dämmung/Dämmstoffe.md",
-    "Ing-Technik/Bau/Dämmung/Wasserdampfdiffusionsfähigkeit.md",
-    "Ing-Technik/Bau/Dämmung/Wasserdampf.md",
-    "Mathe/ÜA/ÜA Neue Straße.md",
     "Bilder/Ing Kl.12 2.pdf",
     "Bilder/Baugruppen.pdf",
     "Bilder/Integrale - Berechnung von Flächeninhalten.pdf",
